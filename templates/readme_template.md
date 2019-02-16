@@ -1,18 +1,22 @@
-# {{projectName}} ![language](https://img.shields.io/badge/language-{{language}}-blue.svg)
+# {{projectName}}{{#if language}} ![language](https://img.shields.io/badge/language-{{language}}-blue.svg){{/if}}
 
+{{#if longDescription}}
 > {{shortDescription}}
 
+{{/if}}
+{{#if longDescription}}
 {{longDescription}}
 
-## Table of Contents
+{{/if}}
+## Table of content
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Support](#support)
 - [Contributing](#contributing)
-{{#has_license}}
+{{#if license}}
 - [License](#license)
-{{/has_license}}
+{{/if}}
 
 ## Installation
 
@@ -31,10 +35,9 @@ Please [open an issue](https://github.com/{{user}}/{{repo}}/issues/new) for supp
 ## Contributing
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/{{user}}/{{repo}}/compare/).
-{{#has_license}}
+{{#if license}}
 
 ## License
 
-[MIT](LICENSE) © [{{author}}](https://github.com/{{user}})
-
-{{/has_license}}
+[{{license}}](LICENSE) © [{{author}}](https://github.com/{{user}})
+{{/if}}
