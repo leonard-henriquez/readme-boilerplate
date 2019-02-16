@@ -4,14 +4,14 @@
 
 {{ Long description }}
 
-## Table of Contents
+## :books: Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Support](#support)
 - [Contributing](#contributing)
 
-## Installation
+## :package: Installation
 
 {{ Change all this part }}
 
@@ -19,7 +19,7 @@
 curl https://git.io/fh5mp > README.md
 ```
 
-## Usage
+## :rocket: Usage
 
 {{ Change all this part }}
 
@@ -63,10 +63,10 @@ Emoji [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/REA
 - :unicorn: `:unicorn:`
 
 
-## Support
+## :hammer_and_wrench: Support
 
 Please [open an issue](https://github.com/leonard-henriquez/readme-boilerplate/issues/new) for support.
 
-## Contributing
+## :memo: Contributing
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/leonard-henriquez/readme-boilerplate/compare/).
