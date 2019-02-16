@@ -6,10 +6,10 @@
 
 ## :books: Table of Contents
 
-- [Installation](emoji#package-installation)
-- [Usage](emoji#rocket-usage)
-- [Support](emoji#hammer_and_wrench-support)
-- [Contributing](emoji#memo-contributing)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Support](#-support)
+- [Contributing](#-contributing)
 
 ## :package: Installation
 
