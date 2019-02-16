@@ -4,20 +4,20 @@
 
 A `simple` :zap: readme boilerplate and a generator to customize it even faster!
 
-## Table of Contents
+## :books: Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
+- [Installation](#package-installation)
+- [Usage](#rocket-usage)
+- [Support](#hammer_and_wrench-support)
+- [Contributing](#memo-contributing)
 
-## Installation
+## :package: Installation
 
 ```sh
 npm install --global readme-boilerplate
 ```
 
-## Usage
+## :rocket: Usage
 
 ```sh
 readme-gen
@@ -64,10 +64,10 @@ Here are a few tips to make them more beautiful !
 - :memo: `:memo:`
 - :unicorn: `:unicorn:`
 
-## Support
+## :hammer_and_wrench: Support
 
 Please [open an issue](https://github.com/leonard-henriquez/readme-boilerplate/issues/new) for support.
 
-## Contributing
+## :memo: Contributing
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/leonard-henriquez/readme-boilerplate/compare/).
