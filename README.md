@@ -1,8 +1,8 @@
-# {{projectName}} ![language](https://img.shields.io/badge/language-python-blue.svg)
+# Readme Boilerplate ![language](https://img.shields.io/badge/language-javascript-blue.svg)
 
-> {{shortDescription}}
+> Readme boilerplate and generator
 
-{{longDescription}}
+A `simple` :zap: readme boilerplate and a generator to customize it even faster!
 
 ## Table of Contents
 
@@ -13,19 +13,21 @@
 
 ## Installation
 
-{{ Change all this part }}
-
 ```sh
-curl https://git.io/fh5mp > README.md
+npm install --global readme-boilerplate
 ```
 
 ## Usage
 
-{{ Change all this part }}
+```sh
+readme-gen
+```
 
-Replace the contents of `README.md` with your project's
+Then, you can modify the content of your readme.
 
-Screencasts with [RecordIt](http://recordit.co/)
+Here are a few tips to make them more beautiful !
+
+### Screencasts with [RecordIt](http://recordit.co/)
 
 ![screencast](https://github.com/dbader/readme-template/blob/master/header.png?raw=true)
 
@@ -33,11 +35,11 @@ Screencasts with [RecordIt](http://recordit.co/)
 ![screencast](http://recordit.co/images/logo.jpg)
 ```
 
-Badges with [Shield](https://shields.io/)
+### Badges with [Shield](https://shields.io/)
 
-![badge](https://img.shields.io/badge/LEFT-RIGHT-brightgreen.svg) `![badge](https://img.shields.io/badge/LEFT-RIGHT-brightgreen.svg)`
+![badge](https://img.shields.io/badge/LEFT-RIGHT-brightgreen.svg) `![badge](https://img.shields.io/badge/LEFT-RIGHT-COLOR.svg)`
 
-Emoji [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+### Emoji [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 - :hammer_and_wrench: `:hammer_and_wrench:`
 - :artificial_satellite: `:artificial_satellite:`

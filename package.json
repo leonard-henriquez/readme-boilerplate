@@ -16,6 +16,7 @@
   "bin": {
     "readme-gen": "./lib/index.js"
   },
+  "preferGlobal": true,
   "dependencies": {
     "chalk": "^2.4.2",
     "figlet": "^1.2.1",
