@@ -1,8 +1,8 @@
-# {{ Project name }} ![language](https://img.shields.io/badge/language-python-blue.svg)
+# {{projectName}} ![language](https://img.shields.io/badge/language-python-blue.svg)
 
-> {{ Short description }}
+> {{shortDescription}}
 
-{{ Long description }}
+{{longDescription}}
 
 ## Table of Contents
 
@@ -61,7 +61,6 @@ Emoji [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/REA
 - :envelope_with_arrow: `:envelope_with_arrow:`
 - :memo: `:memo:`
 - :unicorn: `:unicorn:`
-
 
 ## Support
 
