@@ -35,6 +35,6 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 
 ## License
 
-[MIT](LICENSE) © [{{user}}](https://github.com/{{user}})
+[MIT](LICENSE) © [{{author}}](https://github.com/{{user}})
 
 {{/has_license}}
