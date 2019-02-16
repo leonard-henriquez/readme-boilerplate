@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: README.md boilerplate
 show_downloads: true
-description: Template to write readme files faster
+description: Template to write beautiful readme files faster
 plugins:
   - jemoji
   - jekyll-relative-links

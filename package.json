@@ -1,0 +1,63 @@
+{
+  "name": "readme-boilerplate",
+  "version": "1.0.0",
+  "description": "The best package to write beautiful readmes quickly",
+  "main": "index.js",
+  "repository": "https://github.com/leonard-henriquez/readme-boilerplate.git",
+  "homepage": "https://leonard-henriquez.github.io/readme-boilerplate/",
+  "bugs": {
+    "url": "https://github.com/leonard-henriquez/readme-boilerplate/issues"
+  },
+  "author": "Leonard-Henriquez <leonard.henriquez@edhec.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./lib/index.js"
+  },
+  "bin": {
+    "readme-gen": "./lib/index.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "git-repo-name": "^1.0.1",
+    "git-username": "^1.0.0",
+    "handlebars": "^4.1.0",
+    "inquirer": "^6.2.2",
+    "path": "^0.12.7"
+  },
+  "keywords": [
+    "boilerplate",
+    "build",
+    "cli",
+    "cli-app",
+    "command-line",
+    "create",
+    "dev",
+    "development",
+    "framework",
+    "front",
+    "frontend",
+    "generate",
+    "generate-generator",
+    "generate-plugin",
+    "generategenerator",
+    "generateplugin",
+    "generator",
+    "init",
+    "initialize",
+    "new",
+    "plugin",
+    "project",
+    "projects",
+    "readme",
+    "scaffold",
+    "scaffolder",
+    "scaffolding",
+    "template",
+    "templates",
+    "webapp",
+    "yeoman",
+    "yo"
+  ]
+}

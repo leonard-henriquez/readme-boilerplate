@@ -1,31 +1,33 @@
-# {{ Project name }} ![language](https://img.shields.io/badge/language-python-blue.svg)
+# Readme Boilerplate ![language](https://img.shields.io/badge/language-javascript-blue.svg)
 
-> {{ Short description }}
+> Readme boilerplate and generator
 
-{{ Long description }}
+A `simple` :zap: readme boilerplate and a generator to customize it even faster!
 
-## Table of Contents
+## :books: Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
+- [Installation](#package-installation)
+- [Usage](#rocket-usage)
+- [Support](#hammer_and_wrench-support)
+- [Contributing](#memo-contributing)
 
-## Installation
-
-{{ Change all this part }}
+## :package: Installation
 
 ```sh
-curl https://git.io/fh5mp > README.md
+npm install --global readme-boilerplate
 ```
 
-## Usage
+## :rocket: Usage
 
-{{ Change all this part }}
+```sh
+readme-gen
+```
 
-Replace the contents of `README.md` with your project's
+Then, you can modify the content of your readme.
 
-Screencasts with [RecordIt](http://recordit.co/)
+Here are a few tips to make them more beautiful !
+
+### Screencasts with [RecordIt](http://recordit.co/)
 
 ![screencast](https://github.com/dbader/readme-template/blob/master/header.png?raw=true)
 
@@ -33,11 +35,11 @@ Screencasts with [RecordIt](http://recordit.co/)
 ![screencast](http://recordit.co/images/logo.jpg)
 ```
 
-Badges with [Shield](https://shields.io/)
+### Badges with [Shield](https://shields.io/)
 
-![badge](https://img.shields.io/badge/LEFT-RIGHT-brightgreen.svg) `![badge](https://img.shields.io/badge/LEFT-RIGHT-brightgreen.svg)`
+![badge](https://img.shields.io/badge/LEFT-RIGHT-brightgreen.svg) `![badge](https://img.shields.io/badge/LEFT-RIGHT-COLOR.svg)`
 
-Emoji [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+### Emoji [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 - :hammer_and_wrench: `:hammer_and_wrench:`
 - :artificial_satellite: `:artificial_satellite:`
@@ -62,11 +64,10 @@ Emoji [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/REA
 - :memo: `:memo:`
 - :unicorn: `:unicorn:`
 
-
-## Support
+## :hammer_and_wrench: Support
 
 Please [open an issue](https://github.com/leonard-henriquez/readme-boilerplate/issues/new) for support.
 
-## Contributing
+## :memo: Contributing
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/leonard-henriquez/readme-boilerplate/compare/).
