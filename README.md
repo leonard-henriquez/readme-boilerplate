@@ -13,6 +13,44 @@ A `simple` :zap: readme boilerplate and a generator to customize it even faster!
 
 ## :package: Installation
 
+### First check if you have NPM installed
+
+Before installing this Readme Generator you need to check if you have `Node.js`and `NPM` installed on your computer.
+
+To check if you have `Node.js` installed, run this command in your terminal:
+
+```sh
+node -v
+```
+
+If you get an answer like this, it means that `Node.js` is installed and you may go to the [next section](#then-install-the-readme-generator).
+
+```sh
+v10.14.1
+```
+
+To confirm that you have `NPM` installed you can run this command in your terminal:
+
+```sh
+npm -v
+```
+
+If you get an answer like this, it means that `Node.js` is installed and you may go to the [next section](#then-install-the-readme-generator).
+
+```sh
+6.4.1
+```
+
+If `Node.js` or `NPM` is not installed you can install them on [this link](https://nodejs.org/en/)
+
+Don't forget to update `NPM` after installing `Node.js`:
+
+```sh
+npm install npm@latest -g
+```
+
+### Then install the Readme Generator
+
 ```sh
 npm install --global readme-boilerplate
 ```
@@ -25,7 +63,10 @@ readme-gen
 
 Then, you can modify the content of your readme.
 
-Here are a few tips to make them more beautiful !
+
+### Tips
+
+Here are a few tips to make them more beautiful!
 
 ### Screencasts with [RecordIt](http://recordit.co/)
 
