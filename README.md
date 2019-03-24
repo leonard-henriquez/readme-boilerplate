@@ -10,6 +10,7 @@ A `simple` :zap: readme boilerplate and a generator to customize it even faster!
 - [Usage](#rocket-usage)
 - [Support](#hammer_and_wrench-support)
 - [Contributing](#memo-contributing)
+- [License](#scroll-license)
 
 ## :package: Installation
 
@@ -80,7 +81,7 @@ Here are a few tips to make them more beautiful!
 
 ![badge](https://img.shields.io/badge/LEFT-RIGHT-brightgreen.svg) `![badge](https://img.shields.io/badge/LEFT-RIGHT-COLOR.svg)`
 
-### Emoji [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+### Emoji [cheatsheet](emoji)
 
 - :hammer_and_wrench: `:hammer_and_wrench:`
 - :artificial_satellite: `:artificial_satellite:`
@@ -112,3 +113,7 @@ Please [open an issue](https://github.com/leonard-henriquez/readme-boilerplate/i
 ## :memo: Contributing
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/leonard-henriquez/readme-boilerplate/compare/).
+
+## :scroll: License
+
+[GNU GPLv3](LICENSE) © [Leonard Henriquez](https://github.com/leonard-henriquez/)
