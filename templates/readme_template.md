@@ -1,6 +1,6 @@
 # {{projectName}}{{#if language}} ![language](https://img.shields.io/badge/language-{{language}}-blue.svg){{/if}}
 
-{{#if longDescription}}
+{{#if shortDescription}}
 > {{shortDescription}}
 
 {{/if}}
@@ -8,36 +8,36 @@
 {{longDescription}}
 
 {{/if}}
-## Table of content
+## :books: Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
+- [Installation](#package-installation)
+- [Usage](#rocket-usage)
+- [Support](#hammer_and_wrench-support)
+- [Contributing](#memo-contributing)
 {{#if license}}
-- [License](#license)
+- [License](#scroll-license)
 {{/if}}
 
-## Installation
+## :package: Installation
 
 ```sh
 ```
 
-## Usage
+## :rocket: Usage
 
 ```sh
 ```
 
-## Support
+## :hammer_and_wrench: Support
 
 Please [open an issue](https://github.com/{{user}}/{{repo}}/issues/new) for support.
 
-## Contributing
+## :memo: Contributing
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/{{user}}/{{repo}}/compare/).
 {{#if license}}
 
-## License
+## :scroll: License
 
 [{{license}}](LICENSE) © [{{author}}](https://github.com/{{user}})
 {{/if}}
