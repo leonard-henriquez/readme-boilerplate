@@ -1,6 +1,6 @@
 {
   "name": "readme-boilerplate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The best package to write beautiful readmes quickly",
   "main": "index.js",
   "repository": "https://github.com/leonard-henriquez/readme-boilerplate.git",
