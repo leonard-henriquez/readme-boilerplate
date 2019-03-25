@@ -24,7 +24,8 @@
     "git-username": "^1.0.0",
     "handlebars": "^4.1.0",
     "inquirer": "^6.2.2",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "readme-boilerplate": "^1.0.4"
   },
   "keywords": [
     "boilerplate",

@@ -296,6 +296,19 @@ process@^0.11.1:
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
   integrity sha1-czIwDoQBYb2j5podHZGn1LwW8YI=
 
+readme-boilerplate@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/readme-boilerplate/-/readme-boilerplate-1.0.4.tgz#4a5c4a85dc7dcd672f7daa95a5d199424aace631"
+  integrity sha512-9XIEYi2hBLvkcvUNkAbtQenP+k7nHpoA70ZYvPvvcWknobrgdGt/TOZ8QNusBkdWJZll++sp2z/qOX3cqUryxA==
+  dependencies:
+    chalk "^2.4.2"
+    figlet "^1.2.1"
+    git-repo-name "^1.0.1"
+    git-username "^1.0.0"
+    handlebars "^4.1.0"
+    inquirer "^6.2.2"
+    path "^0.12.7"
+
 remote-origin-url@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/remote-origin-url/-/remote-origin-url-1.0.0.tgz#add020aa5f1a0b37372858e02b323dc28d4cd030"
