@@ -81,7 +81,7 @@ Here are a few tips to make them more beautiful!
 
 ![badge](https://img.shields.io/badge/LEFT-RIGHT-brightgreen.svg) `![badge](https://img.shields.io/badge/LEFT-RIGHT-COLOR.svg)`
 
-### Emoji [cheatsheet](emoji)
+### Emoji [cheatsheet](emoji.md)
 
 - :hammer_and_wrench: `:hammer_and_wrench:`
 - :artificial_satellite: `:artificial_satellite:`
